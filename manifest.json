@@ -1,5 +1,5 @@
 {
-    "'name": "sanket shejul",
+    "name": "sanket shejul",
     "short_name": "s_shejul",
     "description": "sanket shejul have some experiance about frontend coding like react",
     "orientation": "portrait",
@@ -7,6 +7,34 @@
     "background_color": "#F00",
     "theme_color": "#0FF",
     "display": "standalone",
+    "shortcuts": [
+        {
+            "name": "Lern about us",
+            "short_name": "About",
+            "description": "info about sanket",
+            "url": "./about.html",
+            "icons": [
+                {
+                    "src": "./assets/images/SKILLHUB-192-192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                }
+            ]
+        },
+        {
+            "name": "Get in Toch",
+            "short_name": "Contact",
+            "description": "info about sanket",
+            "url": "./contact.html",
+            "icons": [
+                {
+                    "src": "./assets/images/SKILLHUB-192-192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ],
     "icons": [
         {
             "src": "./assets/images/SKILLHUB-48-48.png",
